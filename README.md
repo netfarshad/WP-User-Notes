@@ -13,8 +13,8 @@
 2. در وردپرس: افزونه‌ها ← افزودن ← بارگذاری
 3. فعال‌سازی
 
-#English Readme
-WordPress plugin for private notes between users and personal task list
+# English Readme
+# WordPress plugin for private notes between users and personal task list
 # WP User Notes
 
 A WordPress plugin for sending private notes between users and managing a personal task list within the dashboard.
